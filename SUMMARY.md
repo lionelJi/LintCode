@@ -11,6 +11,7 @@
 * [Problem 10: String Permutation II](dfs/untitled.md)
 * [Problem 15: Permutation](dfs/15-permutation.md)
 * [Problem 16: Permutation II](dfs/problem-16-permutation-ii.md)
+* [Problem 33: N-Queens](dfs/problem-33-n-queens.md)
 
 ## Python Grammar Note
 
