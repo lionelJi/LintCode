@@ -1,8 +1,12 @@
 ---
-description: 'Given a list of numbers, return all possible permutations.'
+description: Medium & Basic
 ---
 
 # Problem 15: Permutation
+
+## Description:
+
+Given a list of numbers, return all possible permutations.
 
 ## Example:
 
