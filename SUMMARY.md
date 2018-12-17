@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 
-## BFS
+## DFS
 
-* [Problem 15: Permutation](bfs/15-permutation.md)
-* [Untitled](bfs/untitled.md)
+* [Problem 15: Permutation](dfs/15-permutation.md)
+* [Untitled](dfs/untitled.md)
 
