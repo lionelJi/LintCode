@@ -28,6 +28,12 @@ For numbers `[1,2,2]` the unique permutations are:
 
 “前面的数用过了“， 可以使用一个map或者list存储很多True or False。
 
+```python
+visited = [False for i in range(len(nums))]
+```
+
+* 因为要比较和前面的数是否相等，所以需要对原list进行排序。
+
 ## Solution:
 
 ```python
