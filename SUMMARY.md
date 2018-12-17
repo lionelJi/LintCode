@@ -4,6 +4,6 @@
 
 ## BFS
 
-* [\#15 Permutation](bfs/15-permutation.md)
+* [Problem 15: Permutation](bfs/15-permutation.md)
 * [Untitled](bfs/untitled.md)
 

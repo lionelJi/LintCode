@@ -2,7 +2,7 @@
 description: 'Given a list of numbers, return all possible permutations.'
 ---
 
-# \#15 Permutation
+# Problem 15: Permutation
 
 ## Example:
 
