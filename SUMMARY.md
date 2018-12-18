@@ -19,6 +19,7 @@
 * [Problem 190: Next Permutation II](permutation-others/problem-190-next-permutation-ii.md)
 * [Problem 197: Permutation Index](permutation-others/problem-197-permutation-index.md)
 * [Problem 198: Permutation Index II](permutation-others/problem-198-permutation-index-ii.md)
+* [Problem 51: Previous Permutation](permutation-others/problem-51-previous-permutation.md)
 
 ## Python Grammar Note
 
