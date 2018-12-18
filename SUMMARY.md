@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## BFS
+
+* [Problem 120: Word Ladder](bfs/problem-120-word-ladder.md)
+
 ## DFS - COMBINATION
 
 * [Problem 425: Letter Combinations of a phone number](dfs-combination/problem-425-letter-combinations-of-a-phone-number.md)
@@ -16,10 +20,10 @@
 
 ## Permutation - Other
 
+* [Problem 51: Previous Permutation](permutation-others/problem-51-previous-permutation.md)
 * [Problem 190: Next Permutation II](permutation-others/problem-190-next-permutation-ii.md)
 * [Problem 197: Permutation Index](permutation-others/problem-197-permutation-index.md)
 * [Problem 198: Permutation Index II](permutation-others/problem-198-permutation-index-ii.md)
-* [Problem 51: Previous Permutation](permutation-others/problem-51-previous-permutation.md)
 
 ## Python Grammar Note
 
