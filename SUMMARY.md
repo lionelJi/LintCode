@@ -13,6 +13,7 @@
 * [Problem 16: Permutation II](dfs/problem-16-permutation-ii.md)
 * [Problem 33: N-Queens](dfs/problem-33-n-queens.md)
 * [Problem 34: N-Queens II](dfs/problem-34-n-queens-ii.md)
+* [Problem 190: Next Permutation II](dfs/problem-190-next-permutation-ii.md)
 
 ## Python Grammar Note
 
