@@ -6,6 +6,10 @@
 
 * [Problem 120: Word Ladder](bfs/problem-120-word-ladder.md)
 
+## DFS
+
+* [Problem 79: Word Search](dfs-1/problem-79-word-search.md)
+
 ## DFS - COMBINATION
 
 * [Problem 425: Letter Combinations of a phone number](dfs-combination/problem-425-letter-combinations-of-a-phone-number.md)
