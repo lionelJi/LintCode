@@ -30,6 +30,11 @@
 * [Problem 197: Permutation Index](permutation-others/problem-197-permutation-index.md)
 * [Problem 198: Permutation Index II](permutation-others/problem-198-permutation-index-ii.md)
 
+## Linked List
+
+* [Problem 206: Reverse Linked List](linked-list/problem-206-reverse-linked-list.md)
+* [Problem 25: Reverse Nodes in k-Group](linked-list/problem-25-reverse-nodes-in-k-group.md)
+
 ## Python Grammar Note
 
 * [Tip 1:](python-grammar-note/tip-1.md)
@@ -37,4 +42,5 @@
 ## Problems need to be solved
 
 * [有时间做两道trie的题](problems-need-to-be-solved/you-shi-jian-zuo-liang-dao-trie-de-ti.md)
+* [Subarray 问题，自己做题吧](problems-need-to-be-solved/subarray-wen-ti-zi-ji-zuo-ti-ba.md)
 
