@@ -35,6 +35,7 @@
 * [Problem 206: Reverse Linked List](linked-list/problem-206-reverse-linked-list.md)
 * [Problem 25: Reverse Nodes in k-Group](linked-list/problem-25-reverse-nodes-in-k-group.md)
 * [Problem 86: Partition List](linked-list/problem-86-partition-list.md)
+* [Problem 21: Merge Two Sorted Lists](linked-list/problem-21-merge-two-sorted-lists.md)
 
 ## Python Grammar Note
 
