@@ -2,10 +2,13 @@
 
 * [Introduction](README.md)
 
+## Tree
+
+* [Problem 297: Serialize and Deserialize Binary Tree](tree/problem-297-serialize-and-deserialize-binary-tree.md)
+
 ## BFS
 
 * [Problem 120: Word Ladder](bfs/problem-120-word-ladder.md)
-* [Problem 297: Serialize and Deserialize Binary Tree](bfs/problem-297-serialize-and-deserialize-binary-tree.md)
 
 ## DFS
 
