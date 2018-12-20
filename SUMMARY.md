@@ -45,6 +45,7 @@
 * [Problem 24: Swap Nodes in Pairs](linked-list/problem-24-swap-nodes-in-pairs.md)
 * [Problem 511\(Lint\): Swap Two Nodes in Linked List](linked-list/problem-511-lint-swap-two-nodes-in-linked-list.md)
 * [Problem 143: Reorder List](linked-list/problem-143-reorder-list.md)
+* [Problem 61: Rotate List](linked-list/problem-61-rotate-list.md)
 
 ## Python Grammar Note
 
