@@ -17,6 +17,21 @@ Output: 5->4->3->2->1->NULL
 
 ## Solution:
 
+连续赋值的方法!!!!!很重要：
+
+```python
+class Solution:
+    def reverseList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode 
+        """
+        L = ListNode(float("-inf"))
+        while head:
+            L.next, head.next, head = head, L.next, head.next
+        return L.next
+```
+
 ```python
 class Solution:
     def reverseList(self, head):
