@@ -46,6 +46,8 @@
 * [Problem 511\(Lint\): Swap Two Nodes in Linked List](linked-list/problem-511-lint-swap-two-nodes-in-linked-list.md)
 * [Problem 143: Reorder List](linked-list/problem-143-reorder-list.md)
 * [Problem 61: Rotate List](linked-list/problem-61-rotate-list.md)
+* [Problem 138: Copy List with Random Pointer](linked-list/problem-138-copy-list-with-random-pointer.md)
+* [Problem 102: Linked List Cycle](linked-list/untitled.md)
 
 ## Python Grammar Note
 
