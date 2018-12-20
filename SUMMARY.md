@@ -23,6 +23,7 @@
 * [Problem 16: Permutation II](dfs/problem-16-permutation-ii.md)
 * [Problem 33: N-Queens](dfs/problem-33-n-queens.md)
 * [Problem 34: N-Queens II](dfs/problem-34-n-queens-ii.md)
+* [Problem 46: Permutations](dfs/problem-46-permutations.md)
 
 ## Permutation - Other
 
