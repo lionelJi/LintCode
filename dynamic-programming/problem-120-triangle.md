@@ -31,7 +31,7 @@ The minimum path sum from top to bottom is 11 \(i.e., 2 + 3 + 5 + 1 = 11\).
 开销 O\(n^2\):
 
 * DFS - Divide & Conquer + Memorization
-* DP
+* DP 自底向上 & 自顶向下
 
 ## Solution:
 
@@ -100,7 +100,6 @@ class Solution:
     def minimumTotal(self, triangle):
         # write your code here
         min_value = [[float('inf')] * len(triangle[-1]) for i in range(len(triangle))]
-
         result = self.divide_conquer(triangle, 0, 0, min_value)
         return result
 
@@ -114,5 +113,53 @@ class Solution:
         min_value[x][y] = tri[x][y] + min(self.divide_conquer(tri, x + 1, y, min_value),
                                           self.divide_conquer(tri, x + 1, y + 1, min_value))
         return min_value[x][y]
+```
+
+
+
+DP 自底向上
+
+初始化最底层，逐层向上加
+
+```python
+class Solution:
+    """
+    @param triangle: a list of lists of integers
+    @return: An integer, minimum path sum
+    """
+
+    def minimumTotal(self, triangle):
+        # write your code here
+        f = [[float('inf')] * len(triangle[i]) for i in range(len(triangle))]
+        f[-1] = triangle[-1]
+        for i in range(len(triangle) - 2, -1, -1):
+            for j in range(i + 1):
+                try:
+                    f[i][j] = triangle[i][j] + min(f[i + 1][j], f[i + 1][j + 1])
+                except IndexError:
+                    print('{} {}'.format(i, j))
+        return f[0][0]
+```
+
+DP 自顶向下
+
+```python
+class Solution:
+    """
+    @param triangle: a list of lists of integers
+    @return: An integer, minimum path sum
+    """
+
+    def minimumTotal(self, triangle):
+        # write your code here
+        f = [[float('inf')] * len(triangle[i]) for i in range(len(triangle))]
+        f[0][0] = triangle[0][0]
+        for i in range(1, len(triangle)):
+            f[i][0] = f[i-1][0] + triangle[i][0]
+            f[i][i] = f[i-1][i-1] + triangle[i][i]
+        for i in range(1, len(triangle)):
+            for j in range(1, i):
+                f[i][j] = triangle[i][j] + min(f[i-1][j], f[i-1][j-1])
+        return min(f[-1])
 ```
 

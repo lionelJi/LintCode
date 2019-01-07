@@ -59,6 +59,7 @@
 ## Dynamic Programming
 
 * [Problem 120: Triangle](dynamic-programming/problem-120-triangle.md)
+* [Problem 64: Minimum Path Sum](dynamic-programming/problem-64-minimum-path-sum.md)
 
 ## Python Grammar Note
 
