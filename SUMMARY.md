@@ -7,6 +7,12 @@
 * [8种排序算法基本情况概述](8-sort-algorithms/8-zhong-pai-xu-suan-fa-ji-ben-qing-kuang-gai-shu.md)
 * [归并排序Merge Sort](8-sort-algorithms/gui-bing-pai-xu-merge-sort.md)
 
+## BINARY SEARCH
+
+* [Problem 74: Search a 2D Matrix](binary-search/problem-74-search-a-2d-matrix.md)
+* [Problem 240: Search a 2D Matrix II](binary-search/problem-240-search-a-2d-matrix-ii.md)
+* [Problem 162: Find Peak Element](binary-search/problem-162-find-peak-element.md)
+
 ## Tree
 
 * [Problem 297: Serialize and Deserialize Binary Tree](tree/problem-297-serialize-and-deserialize-binary-tree.md)
@@ -60,6 +66,9 @@
 
 * [Problem 120: Triangle](dynamic-programming/problem-120-triangle.md)
 * [Problem 64: Minimum Path Sum](dynamic-programming/problem-64-minimum-path-sum.md)
+* [Problem 62: Unique Paths](dynamic-programming/problem-62-unique-paths.md)
+* [Problem 63: Unique Paths II \(with obstacles\)](dynamic-programming/problem-63-unique-paths-ii-with-obstacles.md)
+* [Problem 111: Climbing Stairs](dynamic-programming/problem-111-climbing-stairs.md)
 
 ## Python Grammar Note
 
