@@ -2,6 +2,11 @@
 
 * [Introduction](README.md)
 
+## 8 Sort Algorithms
+
+* [8种排序算法基本情况概述](8-sort-algorithms/8-zhong-pai-xu-suan-fa-ji-ben-qing-kuang-gai-shu.md)
+* [归并排序Merge Sort](8-sort-algorithms/gui-bing-pai-xu-merge-sort.md)
+
 ## Tree
 
 * [Problem 297: Serialize and Deserialize Binary Tree](tree/problem-297-serialize-and-deserialize-binary-tree.md)
@@ -49,6 +54,11 @@
 * [Problem 138: Copy List with Random Pointer](linked-list/problem-138-copy-list-with-random-pointer.md)
 * [Problem 102: Linked List Cycle](linked-list/untitled.md)
 * [Problem 147: Insertion Sort List](linked-list/problem-147-insertion-sort-list.md)
+* [Problem 148: Sort List](linked-list/problem-148-sort-list.md)
+
+## Dynamic Programming
+
+* [Problem 120: Triangle](dynamic-programming/problem-120-triangle.md)
 
 ## Python Grammar Note
 
