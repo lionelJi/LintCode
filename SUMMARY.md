@@ -13,6 +13,27 @@
 * [Problem 240: Search a 2D Matrix II](binary-search/problem-240-search-a-2d-matrix-ii.md)
 * [Problem 162: Find Peak Element](binary-search/problem-162-find-peak-element.md)
 
+## ARRAY
+
+* [Problem 88: Merge sorted array](array/problem-88-merge-sorted-array.md)
+* [Problem 349: Intersection of Two Arrays](array/problem-349-intersection-of-two-arrays.md)
+
+## Linked List
+
+* [Problem 206: Reverse Linked List](linked-list/problem-206-reverse-linked-list.md)
+* [Problem 92: Reverse Linked List II](linked-list/reverse-linked-list-ii.md)
+* [Problem 25: Reverse Nodes in k-Group](linked-list/problem-25-reverse-nodes-in-k-group.md)
+* [Problem 86: Partition List](linked-list/problem-86-partition-list.md)
+* [Problem 21: Merge Two Sorted Lists](linked-list/problem-21-merge-two-sorted-lists.md)
+* [Problem 24: Swap Nodes in Pairs](linked-list/problem-24-swap-nodes-in-pairs.md)
+* [Problem 511\(Lint\): Swap Two Nodes in Linked List](linked-list/problem-511-lint-swap-two-nodes-in-linked-list.md)
+* [Problem 143: Reorder List](linked-list/problem-143-reorder-list.md)
+* [Problem 61: Rotate List](linked-list/problem-61-rotate-list.md)
+* [Problem 138: Copy List with Random Pointer](linked-list/problem-138-copy-list-with-random-pointer.md)
+* [Problem 102: Linked List Cycle](linked-list/untitled.md)
+* [Problem 147: Insertion Sort List](linked-list/problem-147-insertion-sort-list.md)
+* [Problem 148: Sort List](linked-list/problem-148-sort-list.md)
+
 ## Tree
 
 * [Problem 297: Serialize and Deserialize Binary Tree](tree/problem-297-serialize-and-deserialize-binary-tree.md)
@@ -42,22 +63,6 @@
 * [Problem 33: N-Queens](dfs/problem-33-n-queens.md)
 * [Problem 34: N-Queens II](dfs/problem-34-n-queens-ii.md)
 * [Problem 46: Permutations](dfs/problem-46-permutations.md)
-
-## Linked List
-
-* [Problem 206: Reverse Linked List](linked-list/problem-206-reverse-linked-list.md)
-* [Problem 92: Reverse Linked List II](linked-list/reverse-linked-list-ii.md)
-* [Problem 25: Reverse Nodes in k-Group](linked-list/problem-25-reverse-nodes-in-k-group.md)
-* [Problem 86: Partition List](linked-list/problem-86-partition-list.md)
-* [Problem 21: Merge Two Sorted Lists](linked-list/problem-21-merge-two-sorted-lists.md)
-* [Problem 24: Swap Nodes in Pairs](linked-list/problem-24-swap-nodes-in-pairs.md)
-* [Problem 511\(Lint\): Swap Two Nodes in Linked List](linked-list/problem-511-lint-swap-two-nodes-in-linked-list.md)
-* [Problem 143: Reorder List](linked-list/problem-143-reorder-list.md)
-* [Problem 61: Rotate List](linked-list/problem-61-rotate-list.md)
-* [Problem 138: Copy List with Random Pointer](linked-list/problem-138-copy-list-with-random-pointer.md)
-* [Problem 102: Linked List Cycle](linked-list/untitled.md)
-* [Problem 147: Insertion Sort List](linked-list/problem-147-insertion-sort-list.md)
-* [Problem 148: Sort List](linked-list/problem-148-sort-list.md)
 
 ## Dynamic Programming
 
