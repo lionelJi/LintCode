@@ -6,6 +6,7 @@
 
 * [8种排序算法基本情况概述](8-sort-algorithms/8-zhong-pai-xu-suan-fa-ji-ben-qing-kuang-gai-shu.md)
 * [归并排序Merge Sort](8-sort-algorithms/gui-bing-pai-xu-merge-sort.md)
+* [Untitled](8-sort-algorithms/untitled.md)
 
 ## BINARY SEARCH
 
@@ -17,6 +18,9 @@
 
 * [Problem 88: Merge sorted array](array/problem-88-merge-sorted-array.md)
 * [Problem 349: Intersection of Two Arrays](array/problem-349-intersection-of-two-arrays.md)
+* [Problem 138\(Lint\): Subarray Sum](array/problem-138-lint-subarray-sum.md)
+* [Problem 53: Maximum Subarray](array/problem-53-maximum-subarray.md)
+* [Problem 215: Kth Largest Element](array/problem-215-kth-largest-element.md)
 
 ## Linked List
 
