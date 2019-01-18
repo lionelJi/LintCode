@@ -5,8 +5,8 @@
 ## 8 Sort Algorithms
 
 * [8种排序算法基本情况概述](8-sort-algorithms/8-zhong-pai-xu-suan-fa-ji-ben-qing-kuang-gai-shu.md)
-* [归并排序Merge Sort](8-sort-algorithms/gui-bing-pai-xu-merge-sort.md)
-* [Untitled](8-sort-algorithms/untitled.md)
+* [归并排序 Merge Sort](8-sort-algorithms/gui-bing-pai-xu-merge-sort.md)
+* [快速排序 Quick Sort](8-sort-algorithms/untitled.md)
 
 ## BINARY SEARCH
 

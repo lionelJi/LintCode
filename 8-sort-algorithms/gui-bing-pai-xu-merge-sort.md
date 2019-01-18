@@ -2,7 +2,7 @@
 description: 稳定的排序算法，最好最坏情况都是O(nlogn)
 ---
 
-# 归并排序Merge Sort
+# 归并排序 Merge Sort
 
 不要求在原数据上更改， 会有O\(n\)的空间开销：
 
