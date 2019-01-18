@@ -21,6 +21,7 @@
 * [Problem 138\(Lint\): Subarray Sum](array/problem-138-lint-subarray-sum.md)
 * [Problem 53: Maximum Subarray](array/problem-53-maximum-subarray.md)
 * [Problem 215: Kth Largest Element](array/problem-215-kth-largest-element.md)
+* [Problem 4: Median of two Sorted Array](array/problem-4-median-of-two-sorted-array.md)
 
 ## Linked List
 
