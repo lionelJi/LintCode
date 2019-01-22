@@ -84,6 +84,10 @@
 * [Problem 197: Permutation Index](permutation-others/problem-197-permutation-index.md)
 * [Problem 198: Permutation Index II](permutation-others/problem-198-permutation-index-ii.md)
 
+## TWO POINTERS
+
+* [Problem 283: Move Zeros](two-pointers/problem-283-move-zeros.md)
+
 ## Python Grammar Note
 
 * [Tip 1:](python-grammar-note/tip-1.md)
