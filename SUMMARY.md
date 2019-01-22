@@ -88,6 +88,7 @@
 
 * [Problem 283: Move Zeros](two-pointers/problem-283-move-zeros.md)
 * [Problem 604\(Lint\): Window Sum](two-pointers/problem-604-lint-window-sum.md)
+* [Problem 26: Remove Duplicates](two-pointers/problem-26-remove-duplicates.md)
 
 ## Python Grammar Note
 
