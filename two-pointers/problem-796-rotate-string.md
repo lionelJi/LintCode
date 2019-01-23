@@ -22,6 +22,10 @@ Output: false
 
 * `A` and `B` will have length at most `100`.
 
+## Key Points & Thought:
+
+可以着重看一下下面的KMP算法
+
 ## Solution:
 
 如果只return B in A + A
